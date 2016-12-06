@@ -37,7 +37,7 @@ import com.android.internal.logging.MetricsProto.MetricsEvent;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.nitrogen.settings.preference.CustomSeekBarPreference;
+import com.nitrogen.settings.preferences.CustomSeekBarPreference;
 
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
 
